@@ -1,5 +1,3 @@
-```
-cd traccar-manager-android/app/src/main
-git clone https://github.com/tananaev/traccar-manager-assets.git assets
-```
+# Traccar CDN
 
+This repository contains scripts and files that Traccar web app depends on.
