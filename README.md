@@ -1,3 +1,7 @@
 # Traccar CDN
 
-This repository contains scripts and files that Traccar web app depends on.
+Hosts scripts and files that Traccar web app depends on.
+
+It also contains a vector map:
+
+- [cdn.traccar.org/map](https://cdn.traccar.org/map/)
