@@ -14,7 +14,7 @@
       4
    ],
    "format":"pbf",
-   "maxzoom":11,
+   "maxzoom":6,
    "minzoom":0,
    "version":"3.11",
    "maskLevel":"8",
@@ -29,7 +29,7 @@
             "brunnel":"String",
             "intermittent":"Number"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -111,7 +111,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -121,7 +121,7 @@
             "class":"String",
             "subclass":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -130,7 +130,7 @@
          "fields":{
             "class":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -213,7 +213,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -294,7 +294,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -307,7 +307,7 @@
             "admin_level":"Number",
             "disputed_name":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -317,7 +317,7 @@
             "ref":"String",
             "class":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -339,7 +339,7 @@
             "subclass":"String",
             "mtb_scale":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -351,7 +351,7 @@
             "render_height":"Number",
             "render_min_height":"Number"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -432,7 +432,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -519,7 +519,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -602,7 +602,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -611,7 +611,7 @@
          "fields":{
             "housenumber":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -697,7 +697,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       },
@@ -781,7 +781,7 @@
             "name:sr-Latn":"String",
             "name:nonlatin":"String"
          },
-         "maxzoom":11,
+         "maxzoom":6,
          "minzoom":0,
          "description":""
       }
